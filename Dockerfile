@@ -1,6 +1,6 @@
 FROM python:3.6
 
-COPY . .
+COPY . /usr/src/app
 
 WORKDIR /usr/src/app
 
